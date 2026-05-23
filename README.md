@@ -29,4 +29,4 @@ Select a topic below to view its dedicated study guide, recommended reading orde
 8. [**Operator Overloading**](./Study%20Guide/OperatorOverloading.md) - *Customizing standard operators for user-defined classes.*
 
 ---
-💡 *Tip: If you are reviewing a topic for the first time, make sure to check out the [Study Guide](#) workflow to see the best order for watching lectures and practicing code.*
+💡 *Tip: If you are reviewing a topic for the first time, make sure to check out the [Study Guide](Study%20Guide/README.md) workflow to see the best order for watching lectures and practicing code.*
