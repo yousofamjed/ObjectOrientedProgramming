@@ -19,14 +19,14 @@ Welcome to the central repository for the OOP course material. Use the links bel
 
 Select a topic below to view its dedicated study guide, recommended reading order, and specific practice files:
 
-1. [**C++ Basics**](./StudyGuides/C++_Basics.md) - *Syntax, functions, arrays, and foundational concepts.*
-2. [**Class Basics**](./StudyGuides/Class_Basics.md) - *Object creation, constructors, destructors, and access modifiers.*
-3. [**Consts and Statics**](./StudyGuides/Const&Static.md) - *Constant objects/methods and static class members.*
-4. [**Composition**](./StudyGuides/Composition.md) - *Building complex classes using objects of other classes.*
-5. [**Dynamic Memory Allocation (DMA)**](./StudyGuides/DMA.md) - *Managing memory efficiently using pointers and the heap.*
-6. [**Inheritance**](./StudyGuides/Inheritance.md) - *Base classes, derived classes, and code reusability.*
-7. [**Polymorphism**](./StudyGuides/Polymorphism.md) - *Virtual functions, overriding, and dynamic binding.*
-8. [**Operator Overloading**](./StudyGuides/OperatorOverloading.md) - *Customizing standard operators for user-defined classes.*
+1. [**C++ Basics**](./Study%20Guide/C++_Basics.md) - *Syntax, functions, arrays, and foundational concepts.*
+2. [**Class Basics**](./Study%20Guide/Class_Basics.md) - *Object creation, constructors, destructors, and access modifiers.*
+3. [**Consts and Statics**](./Study%20Guide/Const&Static.md) - *Constant objects/methods and static class members.*
+4. [**Composition**](./Study%20Guide/Composition.md) - *Building complex classes using objects of other classes.*
+5. [**Dynamic Memory Allocation (DMA)**](./Study%20Guide/DMA.md) - *Managing memory efficiently using pointers and the heap.*
+6. [**Inheritance**](./Study%20Guide/Inheritance.md) - *Base classes, derived classes, and code reusability.*
+7. [**Polymorphism**](./Study%20Guide/Polymorphism.md) - *Virtual functions, overriding, and dynamic binding.*
+8. [**Operator Overloading**](./Study%20Guide/OperatorOverloading.md) - *Customizing standard operators for user-defined classes.*
 
 ---
 💡 *Tip: If you are reviewing a topic for the first time, make sure to check out the [Study Guide](#) workflow to see the best order for watching lectures and practicing code.*
