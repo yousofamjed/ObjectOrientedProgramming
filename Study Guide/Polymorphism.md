@@ -10,7 +10,10 @@ We advise you to study in the following order:
    * [polymorphismFinale](https://www.youtube.com/watch?v=-472ho8CktA&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=33)
    
 4. Check out the code examples for **Polymorphism** by ***Dr.Samer Alsawalha*** :
-    * [Polymorphism_1](../code/Polymorphism/Polymorphism.cpp)
+    * [Polymorphism_1](../code/Polymorphism/Polymorphism_1.cpp)
+    * [Polymorphism_2](../code/Polymorphism/Polymorphism_2.cpp)
+    * [Polymorphism_3](../code/Polymorphism/Polymorphism_3.cpp)
+    * [Polymorphism_4](../code/Polymorphism/Polymorphism_4.cpp)
 
 5. Practice using previous quizzes regarding **Polymorphism**:
    * [Quiz6_2025__2_sec4](https://drive.google.com/file/d/1ZNhNQ6LSRm0cdRRC8xcfdkm6-Oe236MU/view?usp=sharing)
