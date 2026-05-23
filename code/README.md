@@ -14,9 +14,9 @@ Practical C++ implementations for the course. Select a file below to view the so
 | **Constants & Statics** | [Constants_1](./Constants_Statics/Constants_1.cpp) -> [Constants_2](./Constants_Statics/Constants_2.cpp) |
 | **Composition** | [Composition_1](./Composition/Composition_1.cpp) -> [Composition_2](./Composition/Composition_2.cpp) |
 | **DMA** | [DMA](./DMA/DMA.cpp) -> [thisPointer](./DMA/thisPointer.cpp) |
-| **Inheritance** | [View Examples](./Inheritance/) |
-| **Polymorphism** | [View Examples](./Polymorphism/) |
-| **Operator Overloading** | [View Examples](./OperatorOverloading/) |
+| **Inheritance** | [Friend_Function_Class](./Inheritance/Friend_Function_Class.cpp) -> [Inheritance_1](./Inheritance/Inheritance_1.cpp) -> [Inheritance_2](./Inheritance/Inheritance_2.cpp) -> [Inheritance_3](./Inheritance/Inheritance_3.cpp) -> [Inheritance_4](./Inheritance/Inheritance_4.cpp) |
+| **Polymorphism** | [Polymorphism_1](./Polymorphism/Polymorphism_1.cpp) -> [Polymorphism_2](./Polymorphism/Polymorphism_2.cpp) -> [Polymorphism_3](./Polymorphism/Polymorphism_3.cpp) -> [Polymorphism_4](./Polymorphism/Polymorphism_4.cpp) |
+| **Operator Overloading** | [Overloading_1](./OperatorOverloading/Overloading_1.cpp) |
 
 ---
 *Return to the [Main Repository Landing Page](../README.md)*
