@@ -14,6 +14,7 @@ We advise you to study in the following order:
     * [Inheritance_2](../code/Inheritance/Inheritance_2.cpp)
     * [Inheritance_3](../code/Inheritance/Inheritance_3.cpp)
     * [Inheritance_4](../code/Inheritance/Inheritance_4.cpp)
+    * [Friend_Functions_Classes](../code/Inheritance/Friend_Function_Class.cpp)
 
 5. Practice using previous quizzes regarding **Inheritance**:
    * [Quiz5_2025__2_sec9](https://drive.google.com/file/d/1Pb0rmA4DEgxvTSGP2b8OoA7Eoh6nzlVS/view?usp=sharing)
