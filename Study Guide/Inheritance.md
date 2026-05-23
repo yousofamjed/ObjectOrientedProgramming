@@ -10,7 +10,10 @@ We advise you to study in the following order:
    * [typesOfInheritance](https://www.youtube.com/watch?v=bLFKe_7SJCw&list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV&index=30)
    
 4. Check out the code examples for **Inheritance** by ***Dr.Samer Alsawalha*** :
-    * [Inheritance_1](../code/Inheritance/Inheritance1.cpp)
+    * [Inheritance_1](../code/Inheritance/Inheritance_1.cpp)
+    * [Inheritance_2](../code/Inheritance/Inheritance_2.cpp)
+    * [Inheritance_3](../code/Inheritance/Inheritance_3.cpp)
+    * [Inheritance_4](../code/Inheritance/Inheritance_4.cpp)
 
 5. Practice using previous quizzes regarding **Inheritance**:
    * [Quiz5_2025__2_sec9](https://drive.google.com/file/d/1Pb0rmA4DEgxvTSGP2b8OoA7Eoh6nzlVS/view?usp=sharing)
