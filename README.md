@@ -1,21 +1,32 @@
-Princess Sumaya University for Technology<br>
-***Object Oriented Programming - CS11253***
+# 🎓 Object Oriented Programming - CS11253
+*Princess Sumaya University for Technology*
 
-# Course Material
+Welcome to the central repository for the OOP course material. Use the links below to access lectures, notes, practice problems, and detailed study guides.
 
-## Quick Links-ExternalPages
-| [Slides<br>*Ms.Ayat Droos*](https://drive.google.com/drive/folders/1fTKKSbcEAyym_ivfNNB-kxm5-PWHSjSm) | [Code Examples<br>*Dr.Samer Alsawalha*](code/README.md) | [Lectures<br>*Dr.Ibrahim Albluwi*](https://www.youtube.com/playlist?list=PLpNZbvo-UcMIAwNqyv1PkPlAn7LLSbsZV) |
-| :---: | :---: | :---: |
-| [Notes<br>*Dana Altaher*](https://api.psutarchive.com/assets/00c85957-4f7a-4853-817e-5efc3a2eae3e) | [Past Quizzes](https://drive.google.com/drive/folders/1o8Ae0gTwBTSMBRKtLVBGLt8qNM6WjupF) | [Quiz Solutions](https://github.com/yousefammmar/OOP/blob/main/Explanations.md) |
-| [Past Exams](https://psutarchive.com/courses/11206?tab=exam) | [Past Labs](https://drive.google.com/drive/folders/1pglAkv7Seib3L2HYHUvhogdKQ3L5GWRI?usp=sharing) |[Study Guide](Study%20Guide/README.md)  |
-  
+---
 
-## Navigation:
-1. [**C++ Basics**](Study%20Guide/C++_Basics.md)  
-2. [**Class Basics**](Study%20Guide/Class_Basics.md)
-3. [**Consts and Statics**](Study%20Guide/Const&Static.md)
-4. [**Composition**](Study%20Guide/Composition.md)
-5. [**Dynamic Memory Allocation (DMA)**](Study%20Guide/DMA.md)
-6. [**Inheritance**](Study%20Guide/Inheritance.md)
-7. [**Polymorphism**](Study%20Guide/Polymorphism.md)
-8. [**OperatorOverloading**](Study%20Guide/OperatorOverloading.md)
+## 🔗 Quick Links & Resources
+
+| 📖 Theory & Lectures | 💻 Code & Practice | 📝 Assessments |
+| :--- | :--- | :--- |
+| [**Lectures** (Dr. Ibrahim Albluwi)](#) | [**Code Examples** (Dr. Samer Alsawalha)](#) | [**Past Quizzes**](#) |
+| [**Slides** (Ms. Ayat Droos)](#) | [**Past Labs**](#) | [**Quiz Solutions**](#) |
+| [**Notes** (Dana Altaher)](#) | [**Study Guide**](#) | [**Past Exams**](#) |
+
+---
+
+## 🧭 Topic Navigation
+
+Select a topic below to view its dedicated study guide, recommended reading order, and specific practice files:
+
+1. [**C++ Basics**](./StudyGuides/C++_Basics.md) - *Syntax, functions, arrays, and foundational concepts.*
+2. [**Class Basics**](./StudyGuides/Class_Basics.md) - *Object creation, constructors, destructors, and access modifiers.*
+3. [**Consts and Statics**](./StudyGuides/Const&Static.md) - *Constant objects/methods and static class members.*
+4. [**Composition**](./StudyGuides/Composition.md) - *Building complex classes using objects of other classes.*
+5. [**Dynamic Memory Allocation (DMA)**](./StudyGuides/DMA.md) - *Managing memory efficiently using pointers and the heap.*
+6. [**Inheritance**](./StudyGuides/Inheritance.md) - *Base classes, derived classes, and code reusability.*
+7. [**Polymorphism**](./StudyGuides/Polymorphism.md) - *Virtual functions, overriding, and dynamic binding.*
+8. [**Operator Overloading**](./StudyGuides/OperatorOverloading.md) - *Customizing standard operators for user-defined classes.*
+
+---
+💡 *Tip: If you are reviewing a topic for the first time, make sure to check out the [Study Guide](#) workflow to see the best order for watching lectures and practicing code.*
